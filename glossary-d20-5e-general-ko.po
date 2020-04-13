@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Korean (d20 5e SRD)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-13 22:13+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Shoyu Vanilla <modulo641@gmail.com>\n"
+"Language-Team: Korean <https://translation.shoyuvanilla.net/dictionaries/"
+"d20-5e-srd/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: \n"
+
+#  Checks
+msgid "check"
+msgstr "판정"
+
+msgid "ability check"
+msgstr "능력 판정"
+
+msgid "contest"
+msgstr "대결 판정"
+
+msgid "passive check"
+msgstr "상시 판정"
+
+msgid "group check"
+msgstr "집단 판정"
+
+msgid "saving throw"
+msgstr "내성 굴림"
+
+#  Abilities
+msgid "strength"
+msgstr "근력"
+
+msgid "dexterity"
+msgstr "민첩"
+
+msgid "constitution"
+msgstr "건강"
+
+msgid "intelligence"
+msgstr "지능"
+
+msgid "wisdom"
+msgstr "지혜"
+
+msgid "charisma"
+msgstr "매력"
+
+#  Skills
+msgid "acrobatics"
+msgstr "곡예"
+
+msgid "animal handling"
+msgstr "동물 조련"
+
+msgid "arcana"
+msgstr "비전학"
+
+msgid "athletics"
+msgstr "운동"
+
+msgid "deception"
+msgstr "기만"
+
+msgid "history"
+msgstr "역사학"
+
+msgid "insight"
+msgstr "통찰"
+
+msgid "intimidation"
+msgstr "위협"
+
+msgid "investigation"
+msgstr "수사"
+
+msgid "medicine"
+msgstr "의학"
+
+msgid "nature"
+msgstr "자연학"
+
+msgid "perception"
+msgstr "감지"
+
+msgid "performance"
+msgstr "공연"
+
+msgid "persuation"
+msgstr "설득"
+
+msgid "religion"
+msgstr "종교학"
+
+msgid "sleight of hand"
+msgstr "손속임"
+
+msgid "stealth"
+msgstr "은신"
+
+msgid "survival"
+msgstr "생존"
+
+#  Creature Size
+msgid "Size"
+msgstr "크기"
+
+msgid "Tiny"
+msgstr "초소형"
+
+msgid "Small"
+msgstr "소형"
+
+msgid "Medium"
+msgstr "중형"
+
+msgid "Large"
+msgstr "대형"
+
+msgid "Huge"
+msgstr "거대형"
+
+msgid "Gargantuan"
+msgstr "초대형"
+
+#  Damage Type
+msgid "damage"
+msgstr "피해"
+
+msgid "acid"
+msgstr "산성"
+
+msgid "bludgeoning"
+msgstr "타격"
+
+msgid "cold"
+msgstr "냉기"
+
+msgid "fire"
+msgstr "화염"
+
+msgid "force"
+msgstr "역장"
+
+msgid "ligtning"
+msgstr "번개"
+
+msgid "necrotic"
+msgstr "사령"
+
+msgid "piercing"
+msgstr "관통"
+
+msgid "poison"
+msgstr "독성"
+
+msgid "psychic"
+msgstr "정신"
+
+msgid "radiant"
+msgstr "광휘"
+
+msgid "slashing"
+msgstr "참격"
+
+msgid "thunder"
+msgstr "천둥"
+
+#  Resistance and Vulnerability
+msgid "vulnerability"
+msgstr "취약성"
+
+msgid "resistance"
+msgstr "저항"
+
+msgid "immunity"
+msgstr "면역성"
+
+#  Conditions
+msgid "frightened"
+msgstr "공포 상태"
+
+msgid "deafened"
+msgstr "귀머거리 상태"
+
+msgid "prone"
+msgstr "넘어짐 상태"
+
+msgid "paralyzed"
+msgstr "마비 상태"
+
+msgid "charmed"
+msgstr "매혹 상태"
+
+msgid "unconscious"
+msgstr "무의식 상태"
+
+msgid "grappled"
+msgstr "붙잡힘 상태"
+
+msgid "petrified"
+msgstr "석화 상태"
+
+msgid "blinded"
+msgstr "장님 상태"
+
+msgid "poisoned"
+msgstr "중독 상태"
+
+msgid "stunned"
+msgstr "충격 상태"
+
+msgid "invisible"
+msgstr "투명 상태"
+
+msgid "restrained"
+msgstr "포박 상태"
+
+msgid "incapaciated"
+msgstr "행동불능 상태"
