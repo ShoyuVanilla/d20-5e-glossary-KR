@@ -187,7 +187,7 @@ msgid "frightened"
 msgstr "공포 상태"
 
 msgid "deafened"
-msgstr "귀머거리 상태"
+msgstr "청각 상실 상태"
 
 msgid "prone"
 msgstr "넘어짐 상태"
@@ -208,7 +208,7 @@ msgid "petrified"
 msgstr "석화 상태"
 
 msgid "blinded"
-msgstr "장님 상태"
+msgstr "시각 상실 상태"
 
 msgid "poisoned"
 msgstr "중독 상태"
