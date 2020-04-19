@@ -224,3 +224,79 @@ msgstr "포박 상태"
 
 msgid "incapaciated"
 msgstr "행동불능 상태"
+
+#  Languages
+msgid "Aarakocra"
+msgstr "아라코크라어"
+
+msgid "Abyssal"
+msgstr "심연어"
+
+msgid "Aquan"
+msgstr "수중어"
+
+msgid "Auran"
+msgstr "창공어"
+
+msgid "Celestial"
+msgstr "천상어"
+
+msgid "Common"
+msgstr "공용어"
+
+msgid "Deep Speech"
+msgstr "지저어"
+
+msgid "Draconic"
+msgstr "용언"
+
+msgid "Druidic"
+msgstr "드루이드어"
+
+msgid "Dwarvish"
+msgstr "드워프어"
+
+msgid "Elvish"
+msgstr "엘프어"
+
+msgid "Giant"
+msgstr "거인어"
+
+msgid "Gith"
+msgstr "기스어"
+
+msgid "Gnoll"
+msgstr "놀어"
+
+msgid "Gnomish"
+msgstr "노움어"
+
+msgid "Goblin"
+msgstr "고블린어"
+
+msgid "Hafling"
+msgstr "하플링어"
+
+msgid "Ignan"
+msgstr "화염어"
+
+msgid "Infernal"
+msgstr "하계어"
+
+msgid "Orc"
+msgstr "오크어"
+
+msgid "Primordial"
+msgstr "원시어"
+
+msgid "Sylvan"
+msgstr "삼림어"
+
+msgid "Terran"
+msgstr "대지어"
+
+msgid "Thieves’ Cant"
+msgstr "도둑의 속어"
+
+msgid "Undercommon"
+msgstr "지하 공용어"
